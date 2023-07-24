@@ -9,6 +9,7 @@ swiper를 이용하여 이미지 슬라이드를 구현하였습니다.
 ![image](https://github.com/seolhee313/seori_coffee/assets/125417882/1043d46e-a037-4728-af69-e812b91c0fba)
 
 - Live Demo : https://seolhee313.github.io/web2023/site/site1/index.html
+- Figma : https://seolhee313.github.io/web2023/site/index.html
 
 ## 사용 스택
 
